@@ -1,5 +1,8 @@
 # cs202_Program3
 
+Programming Assignment #3
+CS 202 Programming Systems
+
 Primary Goal for program #3:
 
 The primary goal for program #3 is to experience operator overloading in an object oriented environment. We want to correctly create classes that properly support the copy constructor, destructor, and now the assignment operator when dynamic memory is involved. Remember that copy constructors in a hierarchy require the use of initialization lists to cause the base class copy constructor to be invoked.
